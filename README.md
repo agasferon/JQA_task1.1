@@ -7,8 +7,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Bug report 1](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
-* [Bug report 2](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* [Невалидные ключи в списке валидных ключей](https://github.com/agasferon/JQA_task1.1/issues/1#issue-608693640)
+* [Валидный ключ в списке невалидных ключей](https://github.com/agasferon/JQA_task1.1/issues/2#issue-608694538)
 
 ## Описание процесса тестирования
 
